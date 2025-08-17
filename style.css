@@ -3,9 +3,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 3;
     padding: 2;
-    background-image: url('20250418_190150.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
+    background-color: #f0f8ff;
 }
 
 .container {
